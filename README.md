@@ -8,9 +8,9 @@ The goal is to classify Iris flowers into three species based on their **sepal l
 
 ## 📂 Project Structure
 
-├── iris_rf_classifier.py 
-├── requirements.txt 
-├── README.md 
+- ├── iris_rf_classifier.py 
+- ├── requirements.txt 
+- ├── README.md 
 
 
 ---
